@@ -1,0 +1,196 @@
+[
+    {
+        "Record Number": 54804,
+        "Time Generated": "2023-11-09 17:46:41",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Service Control Manager",
+        "Event ID": 1073748864,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Background Intelligent Transfer Service",
+            "auto start",
+            "demand start",
+            "BITS"
+        ]
+    },
+    {
+        "Record Number": 54803,
+        "Time Generated": "2023-11-09 17:36:36",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Service Control Manager",
+        "Event ID": 1073748864,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Background Intelligent Transfer Service",
+            "demand start",
+            "auto start",
+            "BITS"
+        ]
+    },
+    {
+        "Record Number": 54802,
+        "Time Generated": "2023-11-09 17:16:41",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Service Control Manager",
+        "Event ID": 1073748864,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Background Intelligent Transfer Service",
+            "auto start",
+            "demand start",
+            "BITS"
+        ]
+    },
+    {
+        "Record Number": 54801,
+        "Time Generated": "2023-11-09 17:07:39",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54800,
+        "Time Generated": "2023-11-09 17:06:36",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Service Control Manager",
+        "Event ID": 1073748864,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Background Intelligent Transfer Service",
+            "demand start",
+            "auto start",
+            "BITS"
+        ]
+    },
+    {
+        "Record Number": 54799,
+        "Time Generated": "2023-11-09 17:05:26",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54798,
+        "Time Generated": "2023-11-09 16:53:09",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54797,
+        "Time Generated": "2023-11-09 16:53:02",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54796,
+        "Time Generated": "2023-11-09 16:52:58",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54795,
+        "Time Generated": "2023-11-09 16:52:57",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54794,
+        "Time Generated": "2023-11-09 16:52:51",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54793,
+        "Time Generated": "2023-11-09 16:46:40",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Service Control Manager",
+        "Event ID": 1073748864,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Background Intelligent Transfer Service",
+            "auto start",
+            "demand start",
+            "BITS"
+        ]
+    },
+    {
+        "Record Number": 54792,
+        "Time Generated": "2023-11-09 16:45:35",
+        "Event Type": 4,
+        "Event Category": 6,
+        "Source Name": "Intel-SST-OED",
+        "Event ID": 19,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Module exceeds resource budget, failed to AllocateFwCps",
+            "3221225626"
+        ]
+    },
+    {
+        "Record Number": 54791,
+        "Time Generated": "2023-11-09 16:36:36",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Service Control Manager",
+        "Event ID": 1073748864,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Background Intelligent Transfer Service",
+            "demand start",
+            "auto start",
+            "BITS"
+        ]
+    }
+]

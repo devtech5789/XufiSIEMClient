@@ -1,0 +1,213 @@
+[
+    {
+        "Record Number": 40453,
+        "Time Generated": "2023-11-09 17:44:42",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": 1073758208,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "2123-10-16T22:44:42Z",
+            "RulesEngine"
+        ]
+    },
+    {
+        "Record Number": 40452,
+        "Time Generated": "2023-11-09 17:44:12",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": -1073725430,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": null
+    },
+    {
+        "Record Number": 40451,
+        "Time Generated": "2023-11-09 17:18:09",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": 1073758208,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "2123-10-16T22:18:09Z",
+            "RulesEngine"
+        ]
+    },
+    {
+        "Record Number": 40450,
+        "Time Generated": "2023-11-09 17:17:38",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": -1073725430,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": null
+    },
+    {
+        "Record Number": 40449,
+        "Time Generated": "2023-11-09 16:29:53",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": 1073758208,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "2123-10-16T21:29:53Z",
+            "RulesEngine"
+        ]
+    },
+    {
+        "Record Number": 40448,
+        "Time Generated": "2023-11-09 16:29:23",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": -1073725430,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": null
+    },
+    {
+        "Record Number": 40447,
+        "Time Generated": "2023-11-09 15:29:35",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": 1073758208,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "2123-10-16T20:29:35Z",
+            "RulesEngine"
+        ]
+    },
+    {
+        "Record Number": 40446,
+        "Time Generated": "2023-11-09 15:29:04",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": -1073725430,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": null
+    },
+    {
+        "Record Number": 40445,
+        "Time Generated": "2023-11-09 15:27:46",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Universal Print",
+        "Event ID": 1,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Initialization Successful. Enabled=false, CloudPrintSolution=Unknown, DiscoveryEndpoint=, OAuthAuthority=, OAuthClientId=, DiscoveryResourceId=, PrintResourceId=",
+            "mcpmanagementservice.dll"
+        ]
+    },
+    {
+        "Record Number": 40444,
+        "Time Generated": "2023-11-09 15:27:46",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Universal Print",
+        "Event ID": 1,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Device is neither AAD/Domain Joined or Workplace Joined.",
+            "mcpmanagementservice.dll"
+        ]
+    },
+    {
+        "Record Number": 40443,
+        "Time Generated": "2023-11-09 14:35:52",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": 1073758208,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "2123-10-16T19:35:52Z",
+            "RulesEngine"
+        ]
+    },
+    {
+        "Record Number": 40442,
+        "Time Generated": "2023-11-09 14:35:21",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": -1073725430,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": null
+    },
+    {
+        "Record Number": 40441,
+        "Time Generated": "2023-11-09 13:56:15",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "gupdate",
+        "Event ID": 0,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Service stopped"
+        ]
+    },
+    {
+        "Record Number": 40440,
+        "Time Generated": "2023-11-09 12:51:36",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "edgeupdate",
+        "Event ID": 0,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "Service stopped"
+        ]
+    },
+    {
+        "Record Number": 40439,
+        "Time Generated": "2023-11-09 12:51:08",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": 1073758208,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "2123-10-16T17:51:08Z",
+            "RulesEngine"
+        ]
+    },
+    {
+        "Record Number": 40438,
+        "Time Generated": "2023-11-09 12:50:37",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": -1073725430,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": null
+    },
+    {
+        "Record Number": 40437,
+        "Time Generated": "2023-11-09 12:24:39",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": 1073758208,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": [
+            "2123-10-16T17:24:39Z",
+            "RulesEngine"
+        ]
+    },
+    {
+        "Record Number": 40436,
+        "Time Generated": "2023-11-09 12:24:09",
+        "Event Type": 4,
+        "Event Category": 0,
+        "Source Name": "Software Protection Platform Service",
+        "Event ID": -1073725430,
+        "Computer Name": "DESKTOP-3GJD6HF",
+        "Data": null
+    }
+]
